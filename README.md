@@ -1,8 +1,8 @@
-# 🌱🏠 ECOHOME: Sistema inteligente de monitoramento de consumo de energia residencial
+# 🌱🏠 ECOHOME: Sistema inteligente de monitoramento de consumo energético residencial
 
 ### **Introdução**
-O **ecohome** é uma solução IoT desenvolvida para monitorar o consumo de energia residencial em tempo real, permitindo identificar padrões de uso e promover a economia energética. 
-O projeto aborda o desafio global de consumo energético ao integrar dispositivos conectados e dashboards intuitivos, que ajudam os usuários a tomar decisões mais conscientes e sustentáveis.
+O **ecohome** uma solução de monitoramento de consumo de energia residencial que visa incentivar práticas sustentáveis e a economia de energia. 
+Utilizando tecnologias IoT, a solução permite que os usuários acompanhem o consumo de diferentes eletrodomésticos em tempo real.
 
 ---
 
