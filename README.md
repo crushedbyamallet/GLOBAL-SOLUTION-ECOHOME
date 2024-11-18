@@ -1,4 +1,4 @@
-# 🌱🏠 ecohome: Sistema inteligente de monitoramento de consumo energético residencial
+# 🌱🏠 *ecohome:* sistema inteligente de monitoramento de consumo energético residencial
 
 ### **Introdução**
 O **ecohome** uma solução de monitoramento de consumo de energia residencial que visa incentivar práticas sustentáveis e a economia de energia. 
