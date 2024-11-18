@@ -80,7 +80,7 @@ Os dados no código são baseados em valores aproximados, mas realistas, extraí
 
 ---
 
-## **🌍 Benefícios e impactos **
+## **🌍 Benefícios e impactos**
 
 O EcoHome contribui significativamente para a sustentabilidade ambiental ao reduzir o consumo de energia e, consequentemente, as emissões de gases de efeito estufa. Ele incentiva o uso responsável da eletricidade e promove a adoção de hábitos mais sustentáveis.
 A solução fomenta a conscientização da população sobre o impacto do consumo energético, melhorando a educação em sustentabilidade. Isso contribui para a criação de comunidades mais engajadas em práticas responsáveis e incentiva o 
