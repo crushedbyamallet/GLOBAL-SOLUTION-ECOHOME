@@ -44,20 +44,19 @@ Os seguintes widgets foram configurados para o painel de controle:
 
 | **Widget**             | **Descrição**                                                | **Tipo**              |
 |-------------------------|------------------------------------------------------------|-----------------------|
-| Projeto                 | Nome do projeto no topo do dashboard                       | Text/Value           |
-| Consumo Total           | Gráfico de consumo consolidado em tempo real               | Time Series Chart    |
+| Projeto                 | Nome do projeto no topo do dashboard                       | Text/value           |
+| Consumo Total           | Gráfico de consumo consolidado em tempo real               | Time series chart    |
 | Consumo Geladeira       | Consumo da geladeira em kWh/dia                             | Gauge                |
 | Consumo Ar-Condicionado | Consumo do ar-condicionado em kWh/dia                       | Gauge                |
 | Consumo TV              | Consumo da TV em kWh/dia                                    | Gauge                |
 | Consumo Micro-ondas     | Consumo do micro-ondas em kWh/dia                           | Gauge                |
 | Consumo Luz             | Consumo das lâmpadas em kWh/dia                             | Gauge                |
-| Alertas                 | Indicador de alto consumo                                   | Led Indicator        |
-| Mensagem Economia       | Recomendações automáticas para economia de energia          | Text/Value           |
+| Alertas                 | Indicador de alto consumo                                   | Led indicator        |
+| Mensagem Economia       | Recomendações automáticas para economia de energia          | Text/value           |
 
 **Intervalo de amostragem:** Todos os widgets estão configurados para atualizar a cada **10 segundos**.
 
 ![image](https://github.com/user-attachments/assets/238e7e78-f58d-4154-9e1e-8fcbf18d698b)
-
 
 ---
 
