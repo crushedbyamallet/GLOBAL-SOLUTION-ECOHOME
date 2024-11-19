@@ -61,7 +61,7 @@ Os seguintes widgets foram configurados para o painel de controle:
 
 ---
 
-## **📜 Fontes e justificativas **
+## **📜 Fontes e justificativas**
 
 Os valores de consumo simulados dos eletrodomésticos foram baseados em padrões reais de uso obtidos de estudos sobre consumo elétrico residencial, além de dados de fabricantes de eletrodomésticos. 
 Cada dispositivo foi configurado para representar um cenário típico de consumo:
