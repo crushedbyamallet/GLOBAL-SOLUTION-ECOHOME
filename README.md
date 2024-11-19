@@ -38,7 +38,7 @@ O sistema EcoHome é composto pelos seguintes elementos:
 ---
 
 
-## **📊 Dashboard **
+## **📊 Dashboard**
 
 Os seguintes widgets foram configurados para o painel de controle:
 
