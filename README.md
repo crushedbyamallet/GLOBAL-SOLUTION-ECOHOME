@@ -121,6 +121,3 @@ torna o EcoHome viável para estudantes, entusiastas de tecnologia e desenvolved
     ![image](https://github.com/user-attachments/assets/d4198c1e-e13b-4e21-8bc6-9b0bb9aaf73f)
 10. Execute o código no ambiente de desenvolvimento e verifique se seu dispositivo está online :)
     ![image](https://github.com/user-attachments/assets/fd04102d-8faf-431b-8cb3-4f05adde6d18)
-
-### **Vídeo de apresentação**
-https://drive.google.com/file/d/1Fgb28iKRaKz8lgr_IklI-wFgVYHgTYpl/view?usp=sharing
